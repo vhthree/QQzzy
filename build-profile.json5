@@ -1,0 +1,50 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "material": {
+          "certpath": "C:/Users/zeyuan/.ohos/config/openharmony/default_QQzzy_rFtZLcuKGY_v_yoCyyvveTUVPAGiQSAaqUdokBbKR20=.cer",
+          "storePassword": "0000001BCC3D8A5960FF7185F8965FE8F8374E6A2EA243F9A647E4F234FB933D1BC2A4A5DB040512F9FCA4",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B60767C913737793E13536B36E80AB27B46B6B2D9C58F0547DF2924E538D77103D58C06BA628DAA",
+          "profile": "C:/Users/zeyuan/.ohos/config/openharmony/default_QQzzy_rFtZLcuKGY_v_yoCyyvveTUVPAGiQSAaqUdokBbKR20=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:/Users/zeyuan/.ohos/config/openharmony/default_QQzzy_rFtZLcuKGY_v_yoCyyvveTUVPAGiQSAaqUdokBbKR20=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compileSdkVersion": 12,
+        "compatibleSdkVersion": 12,
+        "targetSdkVersion": 12,
+        "runtimeOS": "OpenHarmony"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

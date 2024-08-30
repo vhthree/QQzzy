@@ -1,0 +1,372 @@
+{
+  "string": [
+    {
+      "name": "default",
+      "value": "default"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "splash_login",
+      "value": "Login"
+    },
+    {
+      "name": "splash_register",
+      "value": "Register"
+    },
+    {
+      "name": "login_title",
+      "value": "Phone Login"
+    },
+    {
+      "name": "login_country",
+      "value": "Country"
+    },
+    {
+      "name": "login_button_tips",
+      "value": "The Phone only used to login"
+    },
+    {
+      "name": "login_button",
+      "value": "Agree&Login"
+    },
+    {
+      "name": "login_phone",
+      "value": "Phone"
+    },
+    {
+      "name": "login_repass",
+      "value": "Forgot Password"
+    },
+    {
+      "name": "login_freeze",
+      "value": "Emergency freeze"
+    },
+    {
+      "name": "login_security",
+      "value": "Security Center"
+    },
+    {
+      "name": "login_country_tips",
+      "value": "CN(+86)"
+    },
+    {
+      "name": "login_phone_tips",
+      "value": "Please input phone"
+    },
+    {
+      "name": "register_title",
+      "value": "Phone Register"
+    },
+    {
+      "name": "register_nickname",
+      "value": "Nickname"
+    },
+    {
+      "name": "register_password",
+      "value": "Password"
+    },
+    {
+      "name": "register_password_tips",
+      "value": "Set Password"
+    },
+    {
+      "name": "register_privacy1",
+      "value": "I have read and agreed"
+    },
+    {
+      "name": "register_privacy2",
+      "value": "the software licenseservice agreement"
+    },
+    {
+      "name": "register_privacy3",
+      "value": "and"
+    },
+    {
+      "name": "register_privacy4",
+      "value": "service agreement"
+    },
+    {
+      "name": "register_button_tips",
+      "value": "The information is only used to register the account"
+    },
+    {
+      "name": "bottom_tab_message",
+      "value": "Message"
+    },
+    {
+      "name": "bottom_tab_contact",
+      "value": "Contact"
+    },
+    {
+      "name": "bottom_tab_discovery",
+      "value": "Discovery"
+    },
+    {
+      "name":"bottom_tab_me",
+      "value": "Me"
+    },
+    {
+      "name": "emoji_search",
+      "value": "Search"
+    },
+    {
+      "name": "title_qq",
+      "value": "QQ"
+    },
+    {
+      "name": "title_contact",
+      "value": "Contacts"
+    },
+    {
+      "name": "title_moment",
+      "value": "Discovery"
+    },
+    {
+      "name": "me_id",
+      "value": "QQID:"
+    },
+    {
+      "name": "me_service1",
+      "value": "Live Streaming"
+    },
+    {
+      "name": "me_service2",
+      "value": "Click to Open Membership"
+    },
+    {
+      "name": "me_service3",
+      "value": "My QQ Wallet"
+    },
+    {
+      "name": "me_service4",
+      "value": "My Personalization"
+    },
+    {
+      "name": "me_service5",
+      "value": "My Couple Space"
+    },
+    {
+      "name": "me_service6",
+      "value": "Play QQ without Data"
+    },
+    {
+      "name": "me_service7",
+      "value": "Premium Mini Games"
+    },
+    {
+      "name": "me_service8",
+      "value": "My Favorites"
+    },
+    {
+      "name": "me_service9",
+      "value": "My Album"
+    },
+    {
+      "name": "me_service10",
+      "value": "My Files"
+    },
+    {
+      "name": "me_service11",
+      "value": "LimiShow"
+    },
+    {
+      "name": "me_setting",
+      "value": "setting"
+    },
+    {
+      "name": "info_qqid",
+      "value": "QQID:"
+    },
+    {
+      "name": "info_area",
+      "value": "Area:"
+    },
+    {
+      "name": "info_setmark",
+      "value": "Set Name&Tag"
+    },
+    {
+      "name": "info_permission",
+      "value": "Permission"
+    },
+    {
+      "name": "info_more",
+      "value": "More"
+    },
+    {
+      "name": "info_btn_message",
+      "value": "Message"
+    },
+    {
+      "name": "info_btn_video",
+      "value": "VoIP"
+    },
+    {
+      "name": "info_btn_nf",
+      "value": "new friend"
+    },
+    {
+      "name": "info_btn_qtz",
+      "value": "group notice"
+    },
+    {
+      "name": "info_btn_cm",
+      "value": "classmate"
+    },
+    {
+      "name": "dt1",
+      "value": "Friend Updates"
+    },
+    {
+      "name": "dt2",
+      "value": "Mini World"
+    },
+    {
+      "name": "dt3",
+      "value": "Game Center"
+    },
+    {
+      "name": "dt4",
+      "value": "Nearby"
+    },
+    {
+      "name": "dt5",
+      "value": "Live"
+    },
+    {
+      "name": "dt6",
+      "value": "Mini Home"
+    },
+    {
+      "name": "dt7",
+      "value": "Companions"
+    },
+    {
+      "name": "dt8",
+      "value": "Karaoke"
+    },
+    {
+      "name": "dt9",
+      "value": "Anime"
+    },
+    {
+      "name": "dt10",
+      "value": "Reading"
+    },
+    {
+      "name": "dt11",
+      "value": "Shopping"
+    },
+    {
+      "name": "dt12",
+      "value": "Weishi"
+    },
+    {
+      "name": "dt13",
+      "value": "Music"
+    },
+    {
+      "name": "dt14",
+      "value": "Confession"
+    },
+    {
+      "name": "dt15",
+      "value": "Fitness"
+    },
+    {
+      "name": "dt16",
+      "value": "Tencent News"
+    },
+    {
+      "name": "dt17",
+      "value": "Tencent Classroom"
+    },
+    {
+      "name": "dt18",
+      "value": "Kandian"
+    },
+    {
+      "name": "dt19",
+      "value": "More"
+    },
+    {
+      "name": "inf1",
+      "value": "Audio/Video Call"
+    },
+    {
+      "name": "inf2",
+      "value": "Send Gift"
+    },
+    {
+      "name": "inf3",
+      "value": "Send Message"
+    },
+    {
+      "name": "fs",
+      "value": "Send"
+    },
+    {
+      "name": "set_1",
+      "value": "Account Management"
+    },
+    {
+      "name": "set_2",
+      "value": "Phone Number"
+    },
+    {
+      "name": "set_3",
+      "value": "Account Security"
+    },
+    {
+      "name": "set_4",
+      "value": "Notifications"
+    },
+    {
+      "name": "set_5",
+      "value": "Privacy"
+    },
+    {
+      "name": "set_6",
+      "value": "General"
+    },
+    {
+      "name": "set_7",
+      "value": "Accessibility"
+    },
+    {
+      "name": "set_8",
+      "value": "QQ Free Data"
+    },
+    {
+      "name": "set_9",
+      "value": "Personal Info Collection List"
+    },
+    {
+      "name": "set_10",
+      "value": "Third-Party Info Sharing List"
+    },
+    {
+      "name": "set_11",
+      "value": "Personal Info Protection Settings"
+    },
+    {
+      "name": "set_12",
+      "value": "Privacy Policy Summary"
+    },
+    {
+      "name": "set_13",
+      "value": "About QQ & Help"
+    }
+  ]
+}
